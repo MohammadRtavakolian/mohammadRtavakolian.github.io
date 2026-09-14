@@ -149,3 +149,25 @@ body {
 .content p {
     color: #555;
 }
+/* =========================
+   Education
+   ========================= */
+
+.education-item {
+    margin-top: 30px;
+}
+
+.education-item h3 {
+    font-size: 19px;
+    margin-bottom: 5px;
+}
+
+.education-place {
+    color: #777;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.education-item p {
+    margin-bottom: 15px;
+}
